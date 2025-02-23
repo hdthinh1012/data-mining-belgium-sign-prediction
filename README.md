@@ -10,5 +10,7 @@ pip install -r './requirements.txt'
 ```
 4. Install [Train](https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Training.zip) dataset, [Test](https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Testing.zip)
 5. Extract all Test zip, Train zip to Testing, Training folder, the final structure must be `dataset/Testing/00000`, `dataset/Testing/00001`,...
+![image](https://github.com/user-attachments/assets/b88c9c79-431a-45f5-8b2b-2d411f0d2bc5)
+
 
 Ref: https://medium.com/@hilluri/image-classification-with-good-old-simple-neural-networks-6c2e2ed38cc1
